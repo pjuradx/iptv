@@ -576,8 +576,6 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="Illes Balears" tvg-name="TEF",TEF
 https://5940924978228.streamlock.net/EIVISSA_2/EIVISSA_2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Illes Balears" tvg-name="IB3",IB3
-https://www.youtube.com/c/ib3/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Canal 4 Televisió",Canal 4 Televisió
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Fibwidiario/picture?width=200&height=200" group-title="Illes Balears" tvg-name="Fibwi Diario",Fibwi Diario
